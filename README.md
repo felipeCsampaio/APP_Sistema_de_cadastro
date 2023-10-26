@@ -8,7 +8,7 @@
 ![Tela 1](cadastroImg1.png)
 
 ### Tela 2
-![Tela 1](cadastroImg1.png)
+![Tela 1](cadastroImg2.png)
 
 ### Tela 3
 ![Tela 1](cadastroImg1.png)
