@@ -5,6 +5,16 @@
 
 ### LAYOUT DAS TELAS
 ### Tela 1
-![Tela 1](cadastro img 1.png)
+![Tela 1](cadastroImg1.png)
 
+### Tela 2
+![Tela 1](cadastroImg1.png)
 
+### Tela 3
+![Tela 1](cadastroImg1.png)
+
+### Tela 4
+![Tela 1](cadastroImg1.png)
+
+### Tela 5
+![Tela 1](cadastroImg1.png)
